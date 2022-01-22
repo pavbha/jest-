@@ -1,0 +1,16 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "api automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "pavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest-cli": "^27.4.7"
+  }
+}
